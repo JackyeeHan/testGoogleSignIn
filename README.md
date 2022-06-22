@@ -10,7 +10,7 @@
 
 確認繼續後進入登入授權頁
 
-!
+![image](https://github.com/JackyeeHan/testGoogleSignIn/blob/main/AuthPage1.png)
 
 登入成功
 
